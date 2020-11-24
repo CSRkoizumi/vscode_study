@@ -1,1 +1,1 @@
-# vscode_study
+# vscode_zaidan
